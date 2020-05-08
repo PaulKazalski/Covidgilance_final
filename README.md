@@ -1,20 +1,25 @@
-# April 22 - April 26
+# Welcome to COVIDgilance!
+COVID-19 has already caused tens of thousands of deaths in the United States alone, and researchers still don’t know very much about it.  This lack of information makes an already frightening situation even scarier.  To aid in the cause against this terrible disease, COVIDgilance is using machine learning and data visualization to provide one of the most effective countermeasures against this pandemic – knowledge.  
 
-## Add any data relevant to machine learning into the "Resources" folder.
-* Don't forget to include links.
-* If you think you're going to make a mess, create your own folder within "Resources" and upload files there.
+## About this repository
+COVIDgilance is comprised of students of Rutgers’ data science boot camp: Meghna Agnish, Will Giordano, Maria-Elena Gorini, Paul Kazalski, and Flomo Kokro. It is designed to showcase the topics that were covered in class: Tableau visualizations, Python coding, and Keras Machine Learning, among others.
 
-## Clean data so that it's one column of usable data
-* .csv file should be three columns: county, state, data
-* It might be necessary to convert FIPS to county
-* Alphabetize by state, then by county
-* Files go into "Step0" folder
+## About these folders
 
-## Produce Machine Learning Model
-* There's a folder called "Step1_BaseModel".  Put all work on ML in there.
+### Covid-19
+This folder attempts to clone "COVID-19 Case Study - Analysis, Viz & Comparisons", provided by Kaggle user Tarun Kumar, and apply its work for US cases.  (Ref: https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons)
 
-## Visualize Data in Tableau
-* There's a folder called "Tableau".  Put your Tableau visualizations in there.
+### Clean_Data
+This folder stores all the data that has been cleaned and is acceptable for use in our machine learning programs
 
-## Submit new Project Ideas
-* If you have a way to improve the project that you want incorporated, there's a folder called "NewIdeas".
+### Machine_Learning_Code
+This folder includes the code for our Machine Learning Programs.
+
+### Presentation_Slides
+This folder contains the slideshow that COVIDgilance presented on May 7th, 2020.
+
+### Resources
+This folder is a loose storage folder for all files we found useful in our work.  It may include files that did not get used.
+
+### Tableau
+This folder contains all of our Tableau visualizations.

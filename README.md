@@ -1,4 +1,4 @@
-# Welcome to COVIDgilance!
+﻿# Welcome to COVIDgilance!
 COVID-19 has already caused tens of thousands of deaths in the United States alone, and researchers still don’t know very much about it.  This lack of information makes an already frightening situation even scarier.  To aid in the cause against this terrible disease, COVIDgilance is using machine learning and data visualization to provide one of the most effective countermeasures against this pandemic – knowledge.  
 
 ## About this repository
@@ -7,7 +7,7 @@ COVIDgilance is comprised of students of Rutgers’ data science boot camp: Megh
 ## About these folders
 
 ### Covid-19
-This folder attempts to clone "COVID-19 Case Study - Analysis, Viz & Comparisons", provided by Kaggle user Tarun Kumar, and apply its work for US cases.  (Ref: https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons)
+This folder attempts to clone "COVID-19 Case Study - Analysis, Viz & Comparisons", the folders applies ploty, pandas, fbforecast libraries to analyze Covid-19 cases in the US.
 
 ### Clean_Data
 This folder stores all the data that has been cleaned and is acceptable for use in our machine learning programs

@@ -1,5 +1,6 @@
-﻿
-#About this Repository
+**About this Repository**
+
+
 This folder contains files that aid in understanding the spread of the Coronavirus throughout the US. 
 
 SVC_ML_Model2.ipynb utilizies a support vector machine learning model to fit converted categorical data into numeric data, 

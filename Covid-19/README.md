@@ -1,4 +1,4 @@
-This folder contains files that aid in understanding the spread of the Coronavirus throughout the US. 
+﻿This folder contains files that aid in understanding the spread of the Coronavirus throughout the US. 
 
 SVC_ML_Model2.ipynb utilizies a support vector machine learning model to fit converted categorical data into numeric data, 
 to predict the daily total Coronavirus cases in the US.
@@ -13,5 +13,5 @@ States in the US.
 
 Chromedrive and Driver files allow us to control web browsering applications to webscrape.  
 
-
-  
+An enriched version of this notebook can be found at the following 
+link: https://nbviewer.jupyter.org/github/PaulKazalski/Covidgilance_final/blob/master/Covid-19/Visualization_of_COVID_statistics.ipynb

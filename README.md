@@ -7,7 +7,7 @@ COVIDgilance is comprised of students of Rutgers’ data science boot camp: Megh
 ## About these folders
 
 ### Covid-19
-This folder attempts to clone "COVID-19 Case Study - Analysis, Viz & Comparisons", the folders applies ploty, pandas, fbforecast libraries to analyze Covid-19 cases in the US.
+This folder contains a "COVID-19 Case Study - Analysis, Viz & Comparisons", the folders applies ploty, pandas, fbforecast libraries to analyze Covid-19 cases in the US.
 
 ### Clean_Data
 This folder stores all the data that has been cleaned and is acceptable for use in our machine learning programs

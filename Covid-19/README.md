@@ -16,5 +16,4 @@ States in the US.
 
 Chromedrive and Driver files allow us to control web browsering applications to webscrape.  
 
-An enriched version of this notebook can be found at the following 
-link: https://nbviewer.jupyter.org/github/PaulKazalski/Covidgilance_final/blob/master/Covid-19/Visualization_of_COVID_statistics.ipynb
+An enriched version of the The Visualization_of_COVID_statistics.ipynb file can be found at the following link: https://nbviewer.jupyter.org/github/PaulKazalski/Covidgilance_final/blob/master/Covid-19/Visualization_of_COVID_statistics.ipynb
